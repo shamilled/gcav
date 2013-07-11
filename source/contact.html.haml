@@ -8,10 +8,10 @@ name: "Contact Us"
     // do stuff
 
 %h3.title Contact Us
-%p Please don't hesitate to contact us if you have any questions, comments or messages.
 
 .row-clearfix
   .span6
+    %p Please don't hesitate to contact us if you have any questions, comments or messages.
     %h4 MEETING TIMES
     %p
       We meet on the last Saturday of every month.
@@ -29,12 +29,14 @@ name: "Contact Us"
       %br/
       Alexandria, VA 22306
 
-    %p PHONE:703-445-5336
+    %p PHONE: 703-445-5336
     %P ALTERNATE: 703-626-0607
-    %p EMAIL:info@gcav.org
+    %p
+      EMAIL:
+      %a{href:'mailto:info@gcav.org'}info@gcav.org
 
   .span6
-    THUMBNAIL GOES HERE
+    =image_tag('map.png')
 
     %h4 DIRECTIONS
 
@@ -46,3 +48,12 @@ name: "Contact Us"
       %li Turn left at Fordson Rd
       %li Arrive at destination
       %li From South (Fredericksburg, Richmond)
+
+    %h5 From South (Fredericksburg, Richmond)
+
+    %ol
+      %li Take the ramp onto I-95 N
+      %li Take exit 161 to merge onto Richmond Hwy/US-1 toward Mt Vernon/Ft Belvoir Continue to follow Richmond Hwy
+      %li Slight right at Sherwood Hall Ln
+      %li Turn right at Fordson Rd
+      %li Arrive at destination

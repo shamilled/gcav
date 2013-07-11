@@ -1,6 +1,6 @@
 ---
-title: "GCAV - About"
-name: "About Us"
+title: "GCAV - Forms"
+name: "Forms"
 ---
 
 - content_for :head do
@@ -13,13 +13,15 @@ name: "About Us"
 
 %hr/
 
-%row-fluid.clearfix
+%a{href:'/images/registration.pdf', class:'btn btn-primary'} Download Registration Form
+
+-#%row-fluid.clearfix
   .span6
     %p You can choose to pre-register online .
     %p We will contact you within 48 hours to confirm.
     %p Please fill out the form below.
 
-
+    = partial "partials/signup_form"
 
   .span6
     %p Optionally, you can download, print and complete the form.

@@ -1,0 +1,54 @@
+%form.validate.form-horizontal{:action => "http://gcav.us1.list-manage.com/subscribe/post?u=49f9ecc43400c1a517eb86254&id=132ca31cb7", :method => "post", :name => "mc-embedded-subscribe-form"}
+  %small * indicates required
+  .control-group
+    %label.control-label{:for => "mce-FNAME"} First Name  *
+    .controls
+      %input#mce-FNAME.required{:name => "FNAME", :type => "text", :value => ""}/
+  .control-group
+    %label.control-label{:for => "mce-LNAME"} Last Name *
+    .controls
+      %input#mce-LNAME.required{:name => "LNAME", :type => "text", :value => ""}/
+  .control-group
+    %label.control-label{:for => "mce-MMERGE6-addr1"} Street Address
+    .controls
+      %input#mce-MMERGE6-addr1.required{:maxlength => "70", :name => "MMERGE6[addr1]", :type => "text", :value => ""}/
+  .control-group
+    %label.control-label{:for => "mce-MMERGE6-addr2"} Address Line 2
+    .controls
+      %input#mce-MMERGE6-addr2{:maxlength => "70", :name => "MMERGE6[addr2]", :type => "text", :value => ""}/
+  .control-group
+    %label.control-label{:for => "mce-MMERGE6-city"} City
+    .controls
+      %input#mce-MMERGE6-city.required{:maxlength => "40", :name => "MMERGE6[city]", :type => "text", :value => ""}/
+  .control-group
+    %label.control-label{:for => "mce-MMERGE6-state"} State
+    .controls
+      %input#mce-MMERGE6-state.required{:maxlength => "20", :name => "MMERGE6[state]", :type => "text", :value => ""}/
+    %label.control-label{:for => "mce-MMERGE6-zip"} Postal / Zip Code
+    .controls
+      %input#mce-MMERGE6-zip.required{:maxlength => "10", :name => "MMERGE6[zip]", :type => "text", :value => ""}/
+
+  .control-group
+    %label.control-label{:for => "mce-MMERGE6-country"} Country
+    .controls
+      %select#mce-MMERGE6-country.required{:name => "MMERGE6[country]"}
+        %option{:selected => "selected", :value => "164"} USA
+  .control-group
+    %label.control-label{:for => "mce-EMAIL"} Email Address *
+    .controls
+      %input#mce-EMAIL.required.email{:name => "EMAIL", :type => "text", :value => ""}/
+  .control-group
+    .phonefield
+      %label.control-label{:for => "mce-MMERGE3"} Phone *
+      .controls
+        %span.phonearea
+        %input#mce-MMERGE3-area{:maxlength => "3", :name => "MMERGE3[area]", :size => "3", :type => "text", :value => ""}/
+      %label.control-label{:for => "mce-MMERGE3-area"} (###)
+      .controls
+        %input#mce-MMERGE3-detail1{:maxlength => "3", :name => "MMERGE3[detail1]", :size => "3", :type => "text", :value => ""}/
+      %label.control-label{:for => "mce-MMERGE3-detail1"} ###
+      .controls
+        %input#mce-MMERGE3-detail2{:maxlength => "4", :name => "MMERGE3[detail2]", :size => "4", :type => "text", :value => ""}/
+      %label.control-label{:for => "mce-MMERGE3-detail2"} ####
+    %div
+      %input#mc-embedded-subscribe.btn{:name => "subscribe", :type => "submit", :value => "Register"}/

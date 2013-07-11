@@ -6,12 +6,16 @@ body {
 }
 
 #main {
-  background: #eee;
+  background: #fff;
   padding: 20px;
   margin-bottom: 10px;
   min-height: 300px;
-}
+  border: solid 5px rgb(36, 82, 133)}
 
 h3.title {
   border-bottom: #d4d4d4 solid 1px;
+}
+
+footer {
+  color: #fff;
 }
