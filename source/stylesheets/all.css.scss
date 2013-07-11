@@ -3,6 +3,11 @@
 body {
   font-family: sans-serif;
   background: #39628e;
+  padding-top: 30px;
+}
+
+.navigation {
+  margin-top: 40px;
 }
 
 #main {
@@ -18,4 +23,7 @@ h3.title {
 
 footer {
   color: #fff;
+  a {
+    color: #fff;
+  }
 }
