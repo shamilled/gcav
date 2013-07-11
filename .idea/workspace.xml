@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c43c0d1e-590a-4617-88ff-945dc6c424fe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/about.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/stylesheets/all.css.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/comm_aid.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/contact.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/forms.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/gallery.html.haml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/projects.html.haml" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/source/stylesheets/all.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/partials/_footer.html.haml" afterPath="$PROJECT_DIR$/source/partials/_footer.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/partials/_navbar.html.haml" afterPath="$PROJECT_DIR$/source/partials/_navbar.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.ru" afterPath="$PROJECT_DIR$/config.ru" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/layouts/layout.haml" afterPath="$PROJECT_DIR$/source/layouts/layout.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gcav_heroku.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -159,7 +146,7 @@
           <file leaf-file-name="_navbar.html.haml" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/source/partials/_navbar.html.haml">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="6" column="19" selection-start="113" selection-end="113" vertical-scroll-proportion="0.12032086">
+                <state line="15" column="13" selection-start="311" selection-end="311" vertical-scroll-proportion="0.30080214">
                   <folding />
                 </state>
               </provider>
@@ -707,7 +694,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/partials/_navbar.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="19" selection-start="113" selection-end="113" vertical-scroll-proportion="0.12032086">
+        <state line="15" column="13" selection-start="311" selection-end="311" vertical-scroll-proportion="0.30080214">
           <folding />
         </state>
       </provider>
