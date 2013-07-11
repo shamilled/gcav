@@ -1,14 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c43c0d1e-590a-4617-88ff-945dc6c424fe" name="Default" comment="" />
+    <list default="true" id="c43c0d1e-590a-4617-88ff-945dc6c424fe" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/about.html.haml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/stylesheets/all.css.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/comm_aid.html.haml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/contact.html.haml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/forms.html.haml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/gallery.html.haml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/projects.html.haml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/stylesheets/all.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/partials/_footer.html.haml" afterPath="$PROJECT_DIR$/source/partials/_footer.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/partials/_navbar.html.haml" afterPath="$PROJECT_DIR$/source/partials/_navbar.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.ru" afterPath="$PROJECT_DIR$/config.ru" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/layouts/layout.haml" afterPath="$PROJECT_DIR$/source/layouts/layout.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="gcav_heroku.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Gemfile" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373504840536" ignored="false" />
     <file path="$PROJECT_DIR$/../gcav/gcav_new/.idea/workspace.xml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373510379173" ignored="false" />
     <file path="/index.html" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373423983408" ignored="false" />
     <file path="/index.html.haml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373511340026" ignored="false" />
-    <file path="/Dummy.txt" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373504005865" ignored="false" />
+    <file path="/Dummy.txt" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373513608611" ignored="false" />
     <file path="$PROJECT_DIR$/../gcav/gcav_new/public/stylesheets/application.css.scss" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373424938517" ignored="false" />
     <file path="/controller.rb" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373425030942" ignored="false" />
     <file path="$PROJECT_DIR$/public/.idea/modules.xml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373425432567" ignored="false" />
@@ -30,7 +45,15 @@
     <file path="/help.html" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373509770164" ignored="false" />
     <file path="/a.rxml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373511396729" ignored="false" />
     <file path="/a.coffee" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373511397808" ignored="false" />
-    <file path="/_navbar.html.haml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373511540072" ignored="false" />
+    <file path="/_navbar.html.haml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373515851027" ignored="false" />
+    <file path="/_footer.html.haml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373512895490" ignored="false" />
+    <file path="/all.css.scss" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373515429350" ignored="false" />
+    <file path="/about.html.haml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373515328952" ignored="false" />
+    <file path="/comm_aid.html.haml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373515336411" ignored="false" />
+    <file path="/projects.html.haml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373515369034" ignored="false" />
+    <file path="/contact.html.haml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373515341159" ignored="false" />
+    <file path="/forms.html.haml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373515665681" ignored="false" />
+    <file path="/gallery.html.haml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373515356525" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,98 +72,115 @@
     <favorites_list name="gcav_heroku" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html.haml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/index.html.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="21" selection-start="297" selection-end="297" vertical-scroll-proportion="-13.75">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layout.haml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/layouts/layout.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="21" selection-start="1284" selection-end="1284" vertical-scroll-proportion="-25.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.min.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/javascripts/bootstrap.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="all.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/javascripts/all.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="background.png" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/images/background.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap-responsive.min.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/stylesheets/bootstrap-responsive.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.min.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/stylesheets/bootstrap.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="normalize.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/stylesheets/normalize.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_navbar.html.haml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/partials/_navbar.html.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="4" selection-start="4" selection-end="4" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_footer.html.haml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/partials/_footer.html.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="65" selection-start="4" selection-end="4" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="about.html.haml" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/source/about.html.haml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="9" column="9" selection-start="111" selection-end="111" vertical-scroll-proportion="-5.625">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="comm_aid.html.haml" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/source/comm_aid.html.haml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="9" column="9" selection-start="124" selection-end="124" vertical-scroll-proportion="-5.625">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="projects.html.haml" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/source/projects.html.haml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="10" column="15" selection-start="138" selection-end="138" vertical-scroll-proportion="-6.25">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="forms.html.haml" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/source/forms.html.haml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="21" column="4" selection-start="446" selection-end="446" vertical-scroll-proportion="-13.125">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_footer.html.haml" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/source/partials/_footer.html.haml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="16" selection-start="16" selection-end="16" vertical-scroll-proportion="-0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="contact.html.haml" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/source/contact.html.haml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="9" column="9" selection-start="118" selection-end="118" vertical-scroll-proportion="-5.625">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="all.css.scss" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/source/stylesheets/all.css.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="52" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="gallery.html.haml" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/source/gallery.html.haml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="9" column="9" selection-start="111" selection-end="111" vertical-scroll-proportion="-5.625">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html.haml" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/source/index.html.haml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="22" column="21" selection-start="297" selection-end="297" vertical-scroll-proportion="-13.75">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_navbar.html.haml" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/source/partials/_navbar.html.haml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="6" column="19" selection-start="113" selection-end="113" vertical-scroll-proportion="0.12032086">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="layout.haml" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/source/layouts/layout.haml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="18" column="32" selection-start="679" selection-end="679" vertical-scroll-proportion="0.34571064">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -158,30 +198,30 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/layout.html.haml" />
-        <option value="$PROJECT_DIR$/source/partials/_footer.haml" />
-        <option value="$PROJECT_DIR$/source/partials/_navbar.haml" />
-        <option value="$PROJECT_DIR$/source/twocolumns.haml" />
-        <option value="$PROJECT_DIR$/source/layouts/leftsidebar.haml" />
-        <option value="$PROJECT_DIR$/source/stylesheets/site.css.scss" />
-        <option value="$PROJECT_DIR$/source/index.haml" />
-        <option value="$PROJECT_DIR$/source/lib/tasks/gcav.rake" />
-        <option value="$PROJECT_DIR$/Rakefile" />
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/source/help.html" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/config.ru" />
         <option value="$PROJECT_DIR$/source/index.html.haml" />
-        <option value="$PROJECT_DIR$/source/partials/_navbar.html.haml" />
+        <option value="$PROJECT_DIR$/source/stylesheets/all.css" />
+        <option value="$PROJECT_DIR$/source/partials/_footer.html.haml" />
         <option value="$PROJECT_DIR$/source/layouts/layout.haml" />
+        <option value="$PROJECT_DIR$/config.ru" />
+        <option value="$PROJECT_DIR$/source/about.html.haml" />
+        <option value="$PROJECT_DIR$/source/comm_aid.html.haml" />
+        <option value="$PROJECT_DIR$/source/contact.html.haml" />
+        <option value="$PROJECT_DIR$/source/gallery.html.haml" />
+        <option value="$PROJECT_DIR$/source/projects.html.haml" />
+        <option value="$PROJECT_DIR$/source/stylesheets/all.css.scss" />
+        <option value="$PROJECT_DIR$/source/forms.html.haml" />
+        <option value="$PROJECT_DIR$/source/partials/_navbar.html.haml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="51" />
     <option name="y" value="35" />
-    <option name="width" value="1485" />
-    <option name="height" value="865" />
+    <option name="width" value="1759" />
+    <option name="height" value="941" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -330,6 +370,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source" />
       <recent name="$PROJECT_DIR$/source/partials" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -476,7 +517,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="51" y="35" width="1485" height="865" extended-state="0" />
+    <frame x="51" y="35" width="1759" height="941" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -484,7 +525,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32597402" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20222376" sideWeight="0.67402595" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16987741" sideWeight="0.67402595" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -559,74 +600,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="54" selection-start="259" selection-end="259" vertical-scroll-proportion="0.22237197">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="11" selection-start="160" selection-end="160" vertical-scroll-proportion="0.1212938">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.ru">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="12" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0606469" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="6" selection-start="386" selection-end="386" vertical-scroll-proportion="0.26280323">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/partials/_navbar.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="4" selection-start="4" selection-end="4" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/partials/_footer.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="65" selection-start="4" selection-end="4" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/stylesheets/all.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="18" selection-start="416" selection-end="416" vertical-scroll-proportion="0.32345015">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/stylesheets/bootstrap-responsive.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/stylesheets/normalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/stylesheets/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -634,16 +607,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/index.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="21" selection-start="297" selection-end="297" vertical-scroll-proportion="-13.75">
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/source/images/background.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/layouts/layout.haml">
+    <entry file="file://$PROJECT_DIR$/source/javascripts/all.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="21" selection-start="1284" selection-end="1284" vertical-scroll-proportion="-25.0">
+        <state line="0" column="103" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -657,16 +628,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/javascripts/all.js">
+    <entry file="file://$PROJECT_DIR$/config.ru">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="4" column="27" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/images/background.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/source/partials/_footer.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="16" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/about.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="9" selection-start="111" selection-end="111" vertical-scroll-proportion="-5.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/comm_aid.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="9" selection-start="124" selection-end="124" vertical-scroll-proportion="-5.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/contact.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="9" selection-start="118" selection-end="118" vertical-scroll-proportion="-5.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/gallery.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="9" selection-start="111" selection-end="111" vertical-scroll-proportion="-5.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/index.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="21" selection-start="297" selection-end="297" vertical-scroll-proportion="-13.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/projects.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="15" selection-start="138" selection-end="138" vertical-scroll-proportion="-6.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/stylesheets/all.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="52" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/forms.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="4" selection-start="446" selection-end="446" vertical-scroll-proportion="-13.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/layouts/layout.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="32" selection-start="679" selection-end="679" vertical-scroll-proportion="0.34571064">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/partials/_navbar.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="19" selection-start="113" selection-end="113" vertical-scroll-proportion="0.12032086">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
