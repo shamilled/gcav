@@ -39,11 +39,11 @@
 # activate :livereload
 
 # Methods defined in the helpers block are available in templates
-# helpers do
-#   def some_helper
-#     "Helping"
-#   end
-# end
+ helpers do
+  def get_images
+    images = Dir.glob("source/images/2009_homowo/*.jpg")
+  end
+ end
 
 set :css_dir, 'stylesheets'
 

@@ -30,9 +30,7 @@
   / ! end of #container
   
   / Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if necessary
-  %script{ :src => '//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js' }
-  %script
-    window.jQuery || document.write("<script src='js/libs/jquery-1.7.2.min.js'>\x3C/script>")
+  %script{ :src => '//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js' }
 
   / js scripts
   = javascript_include_tag "bootstrap.min"

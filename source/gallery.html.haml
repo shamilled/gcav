@@ -8,4 +8,15 @@ name: "Gallery"
     // do stuff
 
 %h3.title Gallery
-%p Images coming soon
+
+%h4 2009 Homowo Festival
+#myCarousel.carousel.slide
+  -#Carousel items
+  .carousel-inner
+    - get_images.each_with_index do |image,index|
+      %div{class: "item #{index == 0 ? 'active' : '' }"}
+        =image_tag "2009_homowo/#{image.split('/').last}"
+
+  -#Carousel nav
+  %a.carousel-control.left{href:"#myCarousel", data: {slide: "prev"}} &lsaquo;
+  %a.carousel-control.right{href:"#myCarousel", data:{slide: "next"}} &rsaquo;

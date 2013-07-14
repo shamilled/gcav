@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c43c0d1e-590a-4617-88ff-945dc6c424fe" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/homowo_2013_web.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/data/events.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/partials/_navbar.html.haml" afterPath="$PROJECT_DIR$/source/partials/_navbar.html.haml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/stylesheets/all.css.scss" afterPath="$PROJECT_DIR$/source/stylesheets/all.css.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/javascripts/all.js" afterPath="$PROJECT_DIR$/source/javascripts/all.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.rb" afterPath="$PROJECT_DIR$/config.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/forms.html.haml" afterPath="$PROJECT_DIR$/source/forms.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/gallery.html.haml" afterPath="$PROJECT_DIR$/source/gallery.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gcav_heroku.iml" afterPath="$PROJECT_DIR$/.idea/gcav_heroku.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/index.html.haml" afterPath="$PROJECT_DIR$/source/index.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/layouts/layout.haml" afterPath="$PROJECT_DIR$/source/layouts/layout.haml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gcav_heroku.iws" />
@@ -15,7 +19,7 @@
     <file path="/Gemfile" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373504840536" ignored="false" />
     <file path="$PROJECT_DIR$/../gcav/gcav_new/.idea/workspace.xml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373510379173" ignored="false" />
     <file path="/index.html" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373423983408" ignored="false" />
-    <file path="/index.html.haml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373511340026" ignored="false" />
+    <file path="/index.html.haml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373834505627" ignored="false" />
     <file path="/Dummy.txt" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373811381098" ignored="false" />
     <file path="$PROJECT_DIR$/../gcav/gcav_new/public/stylesheets/application.css.scss" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373424938517" ignored="false" />
     <file path="/controller.rb" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373425030942" ignored="false" />
@@ -38,17 +42,20 @@
     <file path="/help.html" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373509770164" ignored="false" />
     <file path="/a.rxml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373511396729" ignored="false" />
     <file path="/a.coffee" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373511397808" ignored="false" />
-    <file path="/_navbar.html.haml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373820090322" ignored="false" />
+    <file path="/_navbar.html.haml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373825208516" ignored="false" />
     <file path="/_footer.html.haml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373512895490" ignored="false" />
-    <file path="/all.css.scss" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373820341116" ignored="false" />
+    <file path="/all.css.scss" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373834765198" ignored="false" />
     <file path="/about.html.haml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373518367538" ignored="false" />
     <file path="/comm_aid.html.haml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373515336411" ignored="false" />
     <file path="/projects.html.haml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373515369034" ignored="false" />
     <file path="/contact.html.haml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373520220304" ignored="false" />
     <file path="/forms.html.haml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373820485953" ignored="false" />
-    <file path="/gallery.html.haml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373522343870" ignored="false" />
+    <file path="/gallery.html.haml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373834647401" ignored="false" />
     <file path="/.gitignore" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373819314289" ignored="false" />
     <file path="/_signup_form.html.haml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373519384880" ignored="false" />
+    <file path="/events.json" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373821616637" ignored="false" />
+    <file path="/custom_helpers.rb" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373823811379" ignored="false" />
+    <file path="/config.rb" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373824339915" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,53 +74,115 @@
     <favorites_list name="gcav_heroku" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="layout.haml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/layouts/layout.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="217" selection-start="1262" selection-end="1262" vertical-scroll-proportion="-23.125">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_navbar.html.haml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/partials/_navbar.html.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="11" selection-start="35" selection-end="35" vertical-scroll-proportion="-1.25">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="all.css.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/stylesheets/all.css.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="29" selection-start="141" selection-end="141" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="forms.html.haml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/forms.html.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="14" selection-start="18" selection-end="18" vertical-scroll-proportion="-0.625">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="303" selection-end="303" vertical-scroll-proportion="0.23356402">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="layout.haml" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/source/layouts/layout.haml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="7" column="30" selection-start="269" selection-end="269" vertical-scroll-proportion="-1.5">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="all.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/source/javascripts/all.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="4" column="20" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="all.css.scss" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/source/stylesheets/all.css.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="25" column="16" selection-start="378" selection-end="378" vertical-scroll-proportion="0.6756757">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="forms.html.haml" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/source/forms.html.haml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="1" column="14" selection-start="18" selection-end="18" vertical-scroll-proportion="-0.625">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Gemfile">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="16" column="3" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html.haml" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/source/index.html.haml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="32" column="61" selection-start="569" selection-end="569" vertical-scroll-proportion="-2.8333333">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="gallery.html.haml" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/source/gallery.html.haml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="11" column="0" selection-start="122" selection-end="122" vertical-scroll-proportion="-6.875">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="config.rb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/config.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="43" column="30" selection-start="956" selection-end="956" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_navbar.html.haml" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/source/partials/_navbar.html.haml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="23" column="26" selection-start="544" selection-end="544" vertical-scroll-proportion="-14.375">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="events.json" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/source/data/events.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="13" column="19" selection-start="233" selection-end="233" vertical-scroll-proportion="-8.125">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="about.html.haml" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/source/about.html.haml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="17" column="16" selection-start="817" selection-end="817" vertical-scroll-proportion="0.47134936">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -131,22 +200,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/source/stylesheets/all.css" />
-        <option value="$PROJECT_DIR$/source/partials/_footer.html.haml" />
-        <option value="$PROJECT_DIR$/source/comm_aid.html.haml" />
-        <option value="$PROJECT_DIR$/source/projects.html.haml" />
         <option value="$PROJECT_DIR$/source/about.html.haml" />
         <option value="$PROJECT_DIR$/source/partials/_signup_form.html.haml" />
         <option value="$PROJECT_DIR$/source/contact.html.haml" />
-        <option value="$PROJECT_DIR$/source/gallery.html.haml" />
         <option value="$PROJECT_DIR$/config.ru" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/config.rb" />
-        <option value="$PROJECT_DIR$/source/layouts/layout.haml" />
-        <option value="$PROJECT_DIR$/source/partials/_navbar.html.haml" />
-        <option value="$PROJECT_DIR$/source/stylesheets/all.css.scss" />
         <option value="$PROJECT_DIR$/source/forms.html.haml" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/source/data/events.json" />
+        <option value="$PROJECT_DIR$/source/layouts/layout.haml" />
+        <option value="$PROJECT_DIR$/source/javascripts/all.js" />
+        <option value="$PROJECT_DIR$/source/helpers/custom_helpers.rb" />
+        <option value="$PROJECT_DIR$/config.rb" />
+        <option value="$PROJECT_DIR$/source/partials/_navbar.html.haml" />
+        <option value="$PROJECT_DIR$/source/index.html.haml" />
+        <option value="$PROJECT_DIR$/source/gallery.html.haml" />
+        <option value="$PROJECT_DIR$/source/stylesheets/all.css.scss" />
       </list>
     </option>
   </component>
@@ -279,24 +348,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gcav_heroku" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gcav_heroku" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="javascripts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -316,28 +367,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gcav_heroku" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gcav_heroku" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2009_homowo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -595,83 +624,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/gallery.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="21" selection-start="142" selection-end="142" vertical-scroll-proportion="0.26978418">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/index.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="21" selection-start="297" selection-end="297" vertical-scroll-proportion="0.3794964" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="20" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.ru">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="51" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.rvm/rubies/ruby-2.0.0-p0/lib/ruby/2.0.0/openssl/config.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="243" column="14" selection-start="6141" selection-end="6141" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="36" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/layouts/layout.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="217" selection-start="1262" selection-end="1262" vertical-scroll-proportion="-23.125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/partials/_navbar.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="11" selection-start="35" selection-end="35" vertical-scroll-proportion="-1.25">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/stylesheets/all.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="29" selection-start="141" selection-end="141" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/forms.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="14" selection-start="18" selection-end="18" vertical-scroll-proportion="-0.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/images/2009_homowo/IMG_0700.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/images/2009_homowo/IMG_0698.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -694,7 +650,84 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="303" selection-end="303" vertical-scroll-proportion="0.23356402">
+        <state line="16" column="3" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data/events.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="19" selection-start="233" selection-end="233" vertical-scroll-proportion="-8.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/about.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="16" selection-start="817" selection-end="817" vertical-scroll-proportion="0.47134936">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/javascripts/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="27" selection-start="144" selection-end="144" vertical-scroll-proportion="0.13837638">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/layouts/layout.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="30" selection-start="269" selection-end="269" vertical-scroll-proportion="-1.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/images/glyphicons-halflings.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/javascripts/all.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="20" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="30" selection-start="956" selection-end="956" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/partials/_navbar.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="26" selection-start="544" selection-end="544" vertical-scroll-proportion="-14.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/gallery.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="122" selection-end="122" vertical-scroll-proportion="-6.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/index.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="61" selection-start="569" selection-end="569" vertical-scroll-proportion="-2.8333333">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/stylesheets/all.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="16" selection-start="378" selection-end="378" vertical-scroll-proportion="0.6756757">
           <folding />
         </state>
       </provider>
