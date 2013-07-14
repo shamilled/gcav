@@ -1,20 +1,21 @@
 .row.clearfix
-  .span3
-    %a{href:'/'}
+  .span12
+    %a#logo{href:'/'}
       =image_tag('logo.png')
-  .span9.pull-right.navigation
+.row.clearfix
+  .span12.navigation
     .navbar
       .navbar-inner
         %ul.nav.pull-right
           %li
-            %a(href="/about.html") About Us
+            %a(href="/about") About Us
           %li
-            %a(href="/comm_aid.html") Community Aid
+            %a(href="/comm_aid") Community Aid
           %li
-            %a(href="/projects.html") Projects
+            %a(href="/projects") Projects
           %li
-            %a(href="/gallery.html") Gallery
+            %a(href="/gallery") Gallery
           %li
-            %a(href="/forms.html") Forms
+            %a(href="/forms") Forms
           %li
-            %a(href="/contact.html") Contact Us
+            %a(href="/contact") Contact Us

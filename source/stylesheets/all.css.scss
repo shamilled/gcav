@@ -6,10 +6,11 @@ body {
   padding-top: 30px;
 }
 
-.navigation {
-  margin-top: 40px;
+#logo {
+  margin: 0 auto;
+  width: 350px;
+  display: block;
 }
-
 #main {
   background: #fff;
   padding: 20px;
@@ -23,7 +24,7 @@ h3.title {
 
 footer {
   color: #fff;
-  a {
+  a, a:hover, a:active {
     color: #fff;
   }
 }
