@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c43c0d1e-590a-4617-88ff-945dc6c424fe" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/images/registration.pdf" afterPath="$PROJECT_DIR$/source/docs/registration.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/forms.html.haml" afterPath="$PROJECT_DIR$/source/forms.html.haml" />
-    </list>
+    <list default="true" id="c43c0d1e-590a-4617-88ff-945dc6c424fe" name="Default" comment="" />
     <ignored path="gcav_heroku.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Gemfile" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373504840536" ignored="false" />
@@ -104,28 +101,19 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="forms.html.haml" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="forms.html.haml" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/source/forms.html.haml">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="13" column="16" selection-start="341" selection-end="341" vertical-scroll-proportion="0.3764479">
+                <state line="22" column="23" selection-start="540" selection-end="540" vertical-scroll-proportion="-13.75">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Gemfile">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="16" column="3" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.html.haml" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="index.html.haml" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/source/index.html.haml">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="27" column="143" selection-start="625" selection-end="625" vertical-scroll-proportion="-13.458333">
+                <state line="27" column="143" selection-start="625" selection-end="625" vertical-scroll-proportion="0.62355214">
                   <folding />
                 </state>
               </provider>
@@ -165,7 +153,7 @@
           <file leaf-file-name="events.json" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/data/events.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="11" column="67" selection-start="369" selection-end="369" vertical-scroll-proportion="0.30499077">
+                <state line="4" column="7" selection-start="72" selection-end="72" vertical-scroll-proportion="0.11090573">
                   <folding />
                 </state>
               </provider>
@@ -679,11 +667,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/images/2009_homowo/IMG_0691.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/images/2009_homowo/IMG_0689.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -766,23 +749,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/events.json">
+    <entry file="file://$PROJECT_DIR$/source/partials/_signup_form.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="67" selection-start="369" selection-end="369" vertical-scroll-proportion="0.30499077">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/index.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="143" selection-start="625" selection-end="625" vertical-scroll-proportion="-13.458333">
+        <state line="22" column="23" selection-start="1217" selection-end="1217" vertical-scroll-proportion="0.63706565">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/forms.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="16" selection-start="341" selection-end="341" vertical-scroll-proportion="0.3764479">
+        <state line="22" column="23" selection-start="540" selection-end="540" vertical-scroll-proportion="-13.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/events.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="7" selection-start="72" selection-end="72" vertical-scroll-proportion="0.11090573">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/index.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="143" selection-start="625" selection-end="625" vertical-scroll-proportion="0.62355214">
           <folding />
         </state>
       </provider>
