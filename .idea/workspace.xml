@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c43c0d1e-590a-4617-88ff-945dc6c424fe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/events.json" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/data/events.json" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/partials/_footer.html.haml" afterPath="$PROJECT_DIR$/source/partials/_footer.html.haml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/source/images/registration.pdf" afterPath="$PROJECT_DIR$/source/docs/registration.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/forms.html.haml" afterPath="$PROJECT_DIR$/source/forms.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/index.html.haml" afterPath="$PROJECT_DIR$/source/index.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gcav_heroku.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,7 +40,7 @@
     <file path="/comm_aid.html.haml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373515336411" ignored="false" />
     <file path="/projects.html.haml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373515369034" ignored="false" />
     <file path="/contact.html.haml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373520220304" ignored="false" />
-    <file path="/forms.html.haml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373835720816" ignored="false" />
+    <file path="/forms.html.haml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373835799651" ignored="false" />
     <file path="/gallery.html.haml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373834647401" ignored="false" />
     <file path="/.gitignore" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373819314289" ignored="false" />
     <file path="/_signup_form.html.haml" changelist="c43c0d1e-590a-4617-88ff-945dc6c424fe" time="1373519384880" ignored="false" />
@@ -111,7 +107,7 @@
           <file leaf-file-name="forms.html.haml" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/source/forms.html.haml">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="15" column="27" selection-start="453" selection-end="453" vertical-scroll-proportion="0.43436295">
+                <state line="13" column="16" selection-start="341" selection-end="341" vertical-scroll-proportion="0.3764479">
                   <folding />
                 </state>
               </provider>
@@ -384,6 +380,42 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gcav_heroku" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gcav_heroku" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gcav_heroku" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gcav_heroku" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -412,6 +444,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/docs" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/source/images" />
       <recent name="$PROJECT_DIR$/source/javascripts" />
@@ -749,7 +782,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/forms.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="27" selection-start="453" selection-end="453" vertical-scroll-proportion="0.43436295">
+        <state line="13" column="16" selection-start="341" selection-end="341" vertical-scroll-proportion="0.3764479">
           <folding />
         </state>
       </provider>
