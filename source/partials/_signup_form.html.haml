@@ -24,10 +24,10 @@
     %label.control-label{:for => "mce-MMERGE6-state"} State
     .controls
       %input#mce-MMERGE6-state.required{:maxlength => "20", :name => "MMERGE6[state]", :type => "text", :value => ""}/
+  .control-group
     %label.control-label{:for => "mce-MMERGE6-zip"} Postal / Zip Code
     .controls
       %input#mce-MMERGE6-zip.required{:maxlength => "10", :name => "MMERGE6[zip]", :type => "text", :value => ""}/
-
   .control-group
     %label.control-label{:for => "mce-MMERGE6-country"} Country
     .controls
@@ -40,15 +40,9 @@
   .control-group
     .phonefield
       %label.control-label{:for => "mce-MMERGE3"} Phone *
-      .controls
-        %span.phonearea
-        %input#mce-MMERGE3-area{:maxlength => "3", :name => "MMERGE3[area]", :size => "3", :type => "text", :value => ""}/
-      %label.control-label{:for => "mce-MMERGE3-area"} (###)
-      .controls
-        %input#mce-MMERGE3-detail1{:maxlength => "3", :name => "MMERGE3[detail1]", :size => "3", :type => "text", :value => ""}/
-      %label.control-label{:for => "mce-MMERGE3-detail1"} ###
-      .controls
-        %input#mce-MMERGE3-detail2{:maxlength => "4", :name => "MMERGE3[detail2]", :size => "4", :type => "text", :value => ""}/
-      %label.control-label{:for => "mce-MMERGE3-detail2"} ####
-    %div
-      %input#mc-embedded-subscribe.btn{:name => "subscribe", :type => "submit", :value => "Register"}/
+      .controls.controls-row
+        %input#mce-MMERGE3-area.span3{:maxlength => "3", :name => "MMERGE3[area]", :size => "3", :type => "text", :value => ""}/
+        %input#mce-MMERGE3-detail1.span3{:maxlength => "3", :name => "MMERGE3[detail1]", :size => "3", :type => "text", :value => ""}/
+        %input#mce-MMERGE3-detail2.span4{:maxlength => "4", :name => "MMERGE3[detail2]", :size => "4", :type => "text", :value => ""}/
+  %div.pull-right.clearfix
+    %input#mc-embedded-subscribe.btn{:name => "subscribe", :type => "submit", :value => "Register"}/

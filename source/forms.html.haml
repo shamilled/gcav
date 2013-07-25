@@ -8,24 +8,21 @@ name: "Forms"
     // do stuff
 
 %h3.title Registration
-%p In order to become a member of our club, you'll need to fill out a registration form.  Pleas download, print and complete the form.  Upon completion, please bring it with you to our next meeting.
-
-%p
-  %a{href:'/docs/registration.pdf', class:'btn btn-primary btn-large'} Download Registration Form
+%p In order to become a member of our club, you'll need to fill out a registration form. You can choose to pre-register online or download, print and complete the form.  Upon completion, please bring it with you to our next meeting.
 
 %p We look forward to seeing you at our next meeting.
 
 %hr/
 
 
--#%row-fluid.clearfix
+%row.clearfix
   .span6
-    %p You can choose to pre-register online .
-    %p We will contact you within 48 hours to confirm.
-    %p Please fill out the form below.
+    %p Please fill out the form below. We will contact you within 48 hours to confirm.
 
     = partial "partials/signup_form"
 
   .span6
     %p Optionally, you can download, print and complete the form.
-    %P Upon completion, please bring it to our next meeting
+    %p
+      %a{href:'/docs/registration.pdf', class:'btn btn-primary btn-large'} Download Registration Form
+
