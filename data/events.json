@@ -2,15 +2,15 @@
    "events": [
        {
            "title" : "Member Meeting",
-           "date" : "08/10/2013",
+           "date" : "08/24/2013",
            "time" : "5:00p - 8:00p",
            "location" : "Gum Spring Community Center <br /> 8100 Fordson Rd <br /> Alexandria, VA 22306"
        },
        {
-           "title" : "Member Meeting",
-           "date" : "08/17/2013",
-           "time" : "5:00p - 8:00p",
-           "location" : "Gum Spring Community Center <br /> 8100 Fordson Rd <br /> Alexandria, VA 22306"
+           "title" : "Homowo Festival",
+           "date" : "08/31/2013",
+           "time" : "12:00p - 8:00p",
+           "location" : "Fort Hunt Park (Area A) <br /> 8999 Fort Hunt Rd<br /> Alexandria, VA 22308"
        }
    ]
 }
