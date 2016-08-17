@@ -6,7 +6,7 @@ source 'http://rubygems.org'
 gem "middleman", "~>4.1.10"
 
 # Live-reloading plugin
-gem "middleman-livereload", "~> 3.1.0"
+gem "middleman-livereload", "~> 3.4.6"
 gem 'middleman-thumbnailer', :git => 'git://github.com/nhemsley/middleman-thumbnailer.git'
 
 # For faster file watcher updates:
