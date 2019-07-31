@@ -1,13 +1,16 @@
 # If you have OpenSSL installed, we recommend updating
 # the following line to use "https"
-ruby '2.2.5'
+ruby '2.5.5'
 source 'http://rubygems.org'
 
-gem "middleman", "~>3.1.3"
+gem "middleman"
+#gem "middleman", "~>3.4.1"
 
 # Live-reloading plugin
 gem "middleman-livereload", "~> 3.1.0"
-gem 'middleman-thumbnailer', :git => 'git://github.com/nhemsley/middleman-thumbnailer.git'
+gem 'middleman-thumbnailer', :git => 'git://github.com/bastilian/middleman-thumbnailer.git'
+
+#gem 'middleman-thumbnailer', :git => 'git://github.com/nhemsley/middleman-thumbnailer.git'
 
 # For faster file watcher updates:
 # gem "wdm", "~> 0.1.0") # Windows
